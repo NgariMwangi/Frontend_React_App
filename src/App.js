@@ -8,7 +8,7 @@ import ChooseUs from './components/ChooseUs';
 import Course from './components/Course';
 import Footer from './components/Footer';
 import {useState, useEffect} from 'react'
-import ClipLoader from "react-spinners/ClipLoader";
+import Loader from './components/Loader';
 
 function App() {
   const [loading, setLoading]=useState(false)
@@ -21,14 +21,7 @@ setTimeout(()=>{
   },[])
   return (
     <div className="App">
-      {loading? <ClipLoader
-        color={"#FFCC00"}
-        loading={loading}
-        
-        size={150}
-        aria-label="Loading Spinner"
-        data-testid="loader"
-      />:
+      {loading? <Loader/>:
    <div><Navbar/>
    <InformationSection/>
    <Features/>

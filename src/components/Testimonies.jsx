@@ -5,8 +5,8 @@ export default function Testimonies(){
     <div class="max-w-7xl mx-auto px-6 md:px-12 xl:px-6">
 
         <div class="mb-10 space-y-4 px-6 md:px-0">
-            <h2 class="text-center text-2xl font-bold text-[#FFCC00] md:text-4xl" style={{fontSize:"40px", paddingBottom:"15px"}}>
-                We have some fans.
+            <h2 class="text-center text-2xl font-bold text-[#FFCC00] md:text-4xl leading-10" style={{fontSize:"40px", paddingBottom:"15px"}}>
+            Success Stories: What Our Students Say About Tech Tutor
             </h2>
         </div>
 
@@ -19,8 +19,8 @@ export default function Testimonies(){
                 <div class="flex gap-4">
                     <img class="w-12 h-12 rounded-full" src="https://randomuser.me/api/portraits/women/12.jpg" alt="user avatar" width="400" height="400" loading="lazy"/>
                     <div>
-                        <h6 class="text-lg font-medium text-gray-700 dark:text-white">Daniella Doe</h6>
-                        <p class="text-sm text-gray-500 dark:text-gray-300">Mobile dev</p>
+                        <h6 class="text-lg font-medium text-gray-700 ">Daniella Doe</h6>
+                        <p class="text-sm text-[#ffCC00] font-bold">Mobile dev</p>
                     </div>
                 </div>
                 <p class="mt-8">Tech Tutor's personalized approach transformed my coding journey. Their expert tutors provided invaluable guidance, helping me grasp complex concepts effortlessly. I'm now confident in my programming skills!
@@ -33,8 +33,8 @@ export default function Testimonies(){
                 <div class="flex gap-4">
                     <img class="w-12 h-12 rounded-full" src="https://randomuser.me/api/portraits/women/14.jpg" alt="user avatar" width="200" height="200" loading="lazy"/>
                     <div>
-                        <h6 class="text-lg font-medium text-gray-700 dark:text-white">Jane doe</h6>
-                        <p class="text-sm text-gray-500 dark:text-gray-300">DevOps</p>
+                        <h6 class="text-lg font-medium text-gray-700 ">Jane doe</h6>
+                        <p class="text-sm text-[#ffCC00] font-bold">DevOps</p>
                     </div>
                 </div>
                 <p class="mt-8"> I'm incredibly grateful for Tech Tutor's support. Their patient and knowledgeable tutors made learning to code a breeze. Thanks to them, I've leveled up my programming abilities and landed my dream job!
@@ -47,8 +47,8 @@ export default function Testimonies(){
                 <div class="flex gap-4">
                     <img class="w-12 h-12 rounded-full" src="https://randomuser.me/api/portraits/women/18.jpg" alt="user avatar" width="200" height="200" loading="lazy"/>
                     <div>
-                        <h6 class="text-lg font-medium text-gray-700 dark:text-white">Yanick Doe</h6>
-                        <p class="text-sm text-gray-500 dark:text-gray-300">Developer</p>
+                        <h6 class="text-lg font-medium text-gray-700">Yanick Doe</h6>
+                        <p class="text-sm text-[#ffCC00] font-bold">Developer</p>
                     </div>
                 </div>
                 <p class="mt-8">Tech Tutor exceeded my expectations! Their hands-on approach and tailored sessions helped me tackle coding challenges with ease. I highly recommend their services to anyone looking to master programming skills.
@@ -61,8 +61,8 @@ export default function Testimonies(){
                 <div class="flex gap-4">
                     <img class="w-12 h-12 rounded-full" src="https://randomuser.me/api/portraits/women/2.jpg" alt="user avatar" width="200" height="200" loading="lazy"/>
                     <div>
-                        <h6 class="text-lg font-medium text-gray-700 dark:text-white">Jane Doe</h6>
-                        <p class="text-sm text-gray-500 dark:text-gray-300">Mobile dev</p>
+                        <h6 class="text-lg font-medium text-gray-700">Jane Doe</h6>
+                        <p class="text-sm  text-[#ffCC00] font-bold">Mobile dev</p>
                     </div>
                 </div>
                 <p class="mt-8">I can't thank Tech Tutor enough for their exceptional tutoring services. Their tutors went above and beyond to clarify my doubts and provide insightful feedback. Thanks to them, I've made significant progress in my coding journey!
@@ -75,8 +75,8 @@ export default function Testimonies(){
                 <div class="flex gap-4">
                     <img class="w-12 h-12 rounded-full" src="https://randomuser.me/api/portraits/women/62.jpg" alt="user avatar" width="200" height="200" loading="lazy"/>
                     <div>
-                        <h6 class="text-lg font-medium text-gray-700 dark:text-white">Andy Doe</h6>
-                        <p class="text-sm text-gray-500 dark:text-gray-300">FullStack Developer </p>
+                        <h6 class="text-lg font-medium text-gray-700 ">Andy Doe</h6>
+                        <p class="text-sm text-[#ffCC00] font-bold">FullStack Developer </p>
                     </div>
                 </div>
                 <p class="mt-8"> Tech Tutor made learning programming fun and engaging! Their interactive sessions and real-world projects kept me motivated and excited to learn. I'm amazed at how much I've accomplished with their support!
@@ -85,12 +85,12 @@ export default function Testimonies(){
 
 
             <div
-                class="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
+                class="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none mb-3">
                 <div class="flex gap-4">
                     <img class="w-12 h-12 rounded-full" src="https://randomuser.me/api/portraits/women/19.jpg" alt="user avatar" width="400" height="400" loading="lazy"/>
                     <div>
-                        <h6 class="text-lg font-medium text-gray-700 dark:text-white">Yanndy Doe</h6>
-                        <p class="text-sm text-gray-500 dark:text-gray-300">Mobile dev</p>
+                        <h6 class="text-lg font-medium text-gray-700">Yanndy Doe</h6>
+                        <p class="text-sm text-[#ffCC00] font-bold">Mobile dev</p>
                     </div>
                 </div>
                 <p class="mt-8">Tech Tutor's flexible scheduling allowed me to fit coding lessons into my busy life. Their patient instructors and practical approach made learning to code both enjoyable and rewarding. Highly recommended!
