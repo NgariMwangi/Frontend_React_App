@@ -23,7 +23,7 @@ export default function Testimonies(){
                         <p class="text-sm text-[#ffCC00] font-bold">Mobile dev</p>
                     </div>
                 </div>
-                <p class="mt-8">Tech Tutor's personalized approach transformed my coding journey. Their expert tutors provided invaluable guidance, helping me grasp complex concepts effortlessly. I'm now confident in my programming skills!
+                <p class="mt-8 text-black">Tech Tutor's personalized approach transformed my coding journey. Their expert tutors provided invaluable guidance, helping me grasp complex concepts effortlessly. I'm now confident in my programming skills!
                 </p>
             </div>
 
@@ -37,7 +37,7 @@ export default function Testimonies(){
                         <p class="text-sm text-[#ffCC00] font-bold">DevOps</p>
                     </div>
                 </div>
-                <p class="mt-8"> I'm incredibly grateful for Tech Tutor's support. Their patient and knowledgeable tutors made learning to code a breeze. Thanks to them, I've leveled up my programming abilities and landed my dream job!
+                <p class="mt-8 text-black"> I'm incredibly grateful for Tech Tutor's support. Their patient and knowledgeable tutors made learning to code a breeze. Thanks to them, I've leveled up my programming abilities and landed my dream job!
                 </p>
             </div>
 
@@ -51,7 +51,7 @@ export default function Testimonies(){
                         <p class="text-sm text-[#ffCC00] font-bold">Developer</p>
                     </div>
                 </div>
-                <p class="mt-8">Tech Tutor exceeded my expectations! Their hands-on approach and tailored sessions helped me tackle coding challenges with ease. I highly recommend their services to anyone looking to master programming skills.
+                <p class="mt-8 text-black">Tech Tutor exceeded my expectations! Their hands-on approach and tailored sessions helped me tackle coding challenges with ease. I highly recommend their services to anyone looking to master programming skills.
                 </p>
             </div>
 
@@ -65,7 +65,7 @@ export default function Testimonies(){
                         <p class="text-sm  text-[#ffCC00] font-bold">Mobile dev</p>
                     </div>
                 </div>
-                <p class="mt-8">I can't thank Tech Tutor enough for their exceptional tutoring services. Their tutors went above and beyond to clarify my doubts and provide insightful feedback. Thanks to them, I've made significant progress in my coding journey!
+                <p class="mt-8 text-black">I can't thank Tech Tutor enough for their exceptional tutoring services. Their tutors went above and beyond to clarify my doubts and provide insightful feedback. Thanks to them, I've made significant progress in my coding journey!
                 </p>
             </div>
 
@@ -79,7 +79,7 @@ export default function Testimonies(){
                         <p class="text-sm text-[#ffCC00] font-bold">FullStack Developer </p>
                     </div>
                 </div>
-                <p class="mt-8"> Tech Tutor made learning programming fun and engaging! Their interactive sessions and real-world projects kept me motivated and excited to learn. I'm amazed at how much I've accomplished with their support!
+                <p class="mt-8 text-black"> Tech Tutor made learning programming fun and engaging! Their interactive sessions and real-world projects kept me motivated and excited to learn. I'm amazed at how much I've accomplished with their support!
                 </p>
             </div>
 
@@ -93,7 +93,7 @@ export default function Testimonies(){
                         <p class="text-sm text-[#ffCC00] font-bold">Mobile dev</p>
                     </div>
                 </div>
-                <p class="mt-8">Tech Tutor's flexible scheduling allowed me to fit coding lessons into my busy life. Their patient instructors and practical approach made learning to code both enjoyable and rewarding. Highly recommended!
+                <p class="mt-8 text-black">Tech Tutor's flexible scheduling allowed me to fit coding lessons into my busy life. Their patient instructors and practical approach made learning to code both enjoyable and rewarding. Highly recommended!
                 </p>
             </div>
 
