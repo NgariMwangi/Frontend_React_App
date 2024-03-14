@@ -33,7 +33,7 @@ export default function InformationSection(){
           <h1 className="text-4xl font-bold tracking-tight text-[#FFCC00] sm:text-6xl">
           Turbocharge Your Team's Programming Potential!
             </h1>
-            <p className="mt-6 text-lg leading-8 text-[#E5E4E2] font-bold">
+            <p className="mt-6 text-lg leading-8 text-[#E5E4E2] font-bold" style={{fontSize:"25px"}}>
             Unleash the power of collaborative learning and seamless knowledge sharing. Elevate your programming prowess with our dynamic platform
             </p>
           </div>
